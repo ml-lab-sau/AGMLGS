@@ -1,3 +1,4 @@
+% Locality constrained Graph Optimization for Dimensionality Reduction"https://doi.org/10.1016/j.neucom.2017.03.046"
 function [Xnew, time] = funLCGO1(X1, par)
     al = par.al;
     Bt = par.bt;
