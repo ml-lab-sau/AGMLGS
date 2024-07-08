@@ -1,4 +1,4 @@
-% Flexible Manifold Embedding: A Frameworkfor Semi-Supervised and UnsupervisedDimension Reduction
+% Flexible Manifold Embedding: A Frameworkfor Semi-Supervised and UnsupervisedDimension Reduction"doi: 10.1109/TIP.2010.2044958"
 function[Pre_train,Pre_test,time]= FME(X1,Y1,X2,Y2, gamma, mu)
     % Inputs:
     % Y - binary label matrix of size m x c
